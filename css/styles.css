@@ -188,7 +188,7 @@ letter-spacing:-0.02em;
 font-family: Raleway;
 font-size: 18px;
 line-height: 1.17;
-letter-spacing:-0.03em;
+letter-spacing: 0.03em;
 }
 
 .footer-logo-part {
@@ -196,14 +196,14 @@ letter-spacing:-0.03em;
 font-family: Raleway;
 font-size: 18px;
 line-height: 1.17;
-letter-spacing:-0.03em;
+letter-spacing: 0.03em;
 }
 
 .footer-item-text {
     color:#F4F4FD;
 font-size: 16px;
 line-height: 1.5;
-letter-spacing:-0.02em;
+letter-spacing: 0.02em;
 }
 
 /*========================================================================*/
